@@ -1,4 +1,4 @@
-
+DOI:10.5281/zenodo.17115313
 
 
 # 3DCOM Quantum Prime Resonance Model
